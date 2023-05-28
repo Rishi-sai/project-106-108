@@ -1,0 +1,36 @@
+body{
+    font-family: 'Anton', sans-serif;
+    background:rgb(244, 193, 126) ;
+    font-family: 'Anton', sans-serif;
+}
+.header_div{
+    background: azure;
+    color: firebrick;
+}
+.header_div p{
+    color: rgba(230, 56, 13, 0.732);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 12px;
+    letter-spacing: 2px;
+    font-weight: bold;
+
+}
+
+.main_div button{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 30px;
+    width: 155px;
+    color: black;
+    font-weight: bolder;
+    letter-spacing: 4px;
+    font-size: medium;
+}
+.copy_right_footer{
+    background: rgb(255, 255, 255);
+    text-align: center;
+   line-height: 2;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    text-shadow:5px 5px 5px rgb(186, 171, 113);
+}
